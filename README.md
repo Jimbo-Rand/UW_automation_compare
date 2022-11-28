@@ -10,7 +10,6 @@ paper2_plots.m plots the cleaned and processed data
 
 correct_lland_18.m is the matlab script that will run all other scripts to (1) download, clean and prepare the data (2) remove sensor lag from the temperature depth data and (3) produce the graphs presented in the paper
 
-[TOST_equivilence_test.xlsx]
 TOST_equivilence_test.xlsx contains the excel script used to conduct two one-sided t-tests (TOST) used throughout the paper taken from https://www.real-statistics.com/students-t-distribution/equivalence-testing-tost/ (Reference - Lakens, D., 2017: Equivalence tests: A practical primer for t tests, correlations, and meta-analyses, https://doi.org/10.1177/1948550617697177)  
 
 
