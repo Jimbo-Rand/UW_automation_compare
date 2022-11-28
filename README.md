@@ -1,5 +1,5 @@
 # UW_automation_compare
-Matlab scripts and data sets supporting XXXX journal paper comparing manual WQ sampling with automated travel path methods
+Matlab scripts and data sets supporting XXXX journal paper comparing manual WQ sampling with automated travel path methods. Paper is open access (under a xxx licence) and can be obtained from https:xxxxx
 
 Llandegfedd_18_Aug_2022.csv contains raw water quality data collected from Llandegfedd reservoir on 18 August 2022
 
