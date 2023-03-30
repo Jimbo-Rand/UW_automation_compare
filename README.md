@@ -1,7 +1,5 @@
 # UW_automation_compare
 
-## WORK IN PROGRESS - Press <kbd>ESC</kbd> to launch a missile strike :rocket: on Downing street.
-
 DOI - [https://doi.org/10.5281/zenodo.7387256]
 
 Matlab scripts and data sets supporting XXXX journal paper comparing manual WQ sampling with automated travel path methods. Paper is open access (under a xxx licence) and can be obtained from the publishers web site at [https:xxxxx] and also from the University of Bath PURE website at [https:xxxx]
